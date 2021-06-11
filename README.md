@@ -42,8 +42,8 @@ This tutotial assumes you have a Cognitive Search service provisioned and have [
 If you just want to read the code, skip the [Setup](#setup) section.
 
 
-- Part 1: Creating a [judgement list](#creatingthejudgementlist)
-- Part 2: Running the [Tutorial notebook](Tutorial/SearchOptimizaiton_Public.ipynb)
+- Part 1: Create a [judgement list](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/core-concepts.html#judgments-expression-of-the-ideal-ordering)
+- Part 2: Run the [Tutorial notebook](Tutorial/SearchOptimizaiton_Public.ipynb)
 
 
 ## Setup
