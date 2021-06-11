@@ -43,9 +43,7 @@ If you just want to read the code, skip the [Setup](#setup) section.
 
 
 - Part 1: Creating a [judgement list](#creatingthejudgementlist)
-- Part 2: Running the [optimization experiment](Tutorial/public_final_draft.ipynb)
-- Part 3: Evaluating the [optimization experiment](Tutorial/public_final_draft.ipynb): offline and online
-- Part 4: Automatically update the scoring profile with optimized weights: see [optimization experiment](Tutorial/public_draft_final.ipynb)
+- Part 2: Running the [Tutorial](Tutorial)
 
 
 ## Setup
