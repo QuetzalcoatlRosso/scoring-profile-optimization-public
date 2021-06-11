@@ -41,7 +41,7 @@ This tutotial assumes you have a Cognitive Search service provisioned and have [
 
 
 
-- Part 1: Create a [judgement list](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/core-concepts.html#judgments-expression-of-the-ideal-ordering)
+- Part 1: Create a [judgement list](https://github.com/QuetzalcoatlRosso/scoring-profile-optimization-public/blob/main/README.md#creating-the-judgement-list). [Additional background](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/core-concepts.html#judgments-expression-of-the-ideal-ordering)
 - Part 2: Install the necessary (open source) packages; see [setup.py](Tutorial/setup.py)
 - Part 2: Run the [Tutorial notebook](Tutorial/SearchOptimizaiton_Public.ipynb)
 
