@@ -39,10 +39,10 @@ This tutorial is for developers and applied scientists who are looking to improv
 
 This tutotial assumes you have a Cognitive Search service provisioned and have [added a set of documents to the index](https://docs.microsoft.com/en-us/azure/search/search-what-is-data-import).  
 
-If you just want to read the code, skip the [Setup](#setup) section.
 
 
 - Part 1: Create a [judgement list](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/core-concepts.html#judgments-expression-of-the-ideal-ordering)
+- Part 2: Install the necessary (open source) packages; see [setup.py](Tutorial/setup.py)
 - Part 2: Run the [Tutorial notebook](Tutorial/SearchOptimizaiton_Public.ipynb)
 
 
