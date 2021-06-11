@@ -7,8 +7,7 @@ setup(name="Tutorial",
 	author="Ivan Barrientos",
 	author_email="ivbarrie@microsoft.com",
 	packages=[
-		"lib_utils",
-		"lib_utils_async"
+		"lib_utils"
 	],
 	install_requires=[
         "numpy=1.20.2",
