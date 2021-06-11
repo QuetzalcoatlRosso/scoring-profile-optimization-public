@@ -43,7 +43,7 @@ If you just want to read the code, skip the [Setup](#setup) section.
 
 
 - Part 1: Creating a [judgement list](#creatingthejudgementlist)
-- Part 2: Running the [Tutorial](Tutorial)
+- Part 2: Running the [Tutorial notebook](Tutorial/SearchOptimizaiton_Public.ipynb)
 
 
 ## Setup
